@@ -1,0 +1,8 @@
+{
+  "name": "desarrollo-paginas-bootstrap5",
+  "version": "1.0.0",
+  "description": "Proyecto para el curso diseño de paginas con bootstrap 5",
+  "main": "index.html",
+  "author": "Manuel Parra <manuelparra@live.com.ar>",
+  "license": "MIT"
+}
