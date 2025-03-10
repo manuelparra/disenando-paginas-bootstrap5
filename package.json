@@ -5,6 +5,9 @@
   "main": "index.html",
   "author": "Manuel Parra <manuelparra@live.com.ar>",
   "license": "MIT",
+  "scripts": {
+    "dev": "lite-server"
+  },
   "dependencies": {},
   "devDependencies": {
     "lite-server": "^2.6.1"
