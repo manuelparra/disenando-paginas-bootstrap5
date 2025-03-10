@@ -4,5 +4,9 @@
   "description": "Proyecto para el curso diseño de paginas con bootstrap 5",
   "main": "index.html",
   "author": "Manuel Parra <manuelparra@live.com.ar>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
