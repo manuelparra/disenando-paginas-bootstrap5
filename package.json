@@ -8,7 +8,10 @@
   "scripts": {
     "dev": "lite-server"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3"
+  },
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
